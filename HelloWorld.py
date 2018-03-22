@@ -1,1 +1,3 @@
-print "Hello World"
+class HelloWorld:
+
+    print "Hello World"
